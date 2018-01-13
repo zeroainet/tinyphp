@@ -29,7 +29,7 @@
         菜单 Window | Preferences |PHP | Editor | Templates | Improt 可导入以上注释
 
 1.4 安装代码风格
-
+---
 > [tiny-style.xml](https://github.com/tinycn/tinyphp/blob/master/docs/003-IDE%E9%85%8D%E7%BD%AE/tiny-style.xml)
 
         菜单 Window | Preferences |PHP | Editor | Code Style| Formatter| Improt 可导入以上注释
