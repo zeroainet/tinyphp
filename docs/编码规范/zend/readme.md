@@ -1,4 +1,4 @@
-1.代码主题风格
+1.IDE配置
 ====
 
 1.1 安装主题插件
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-1.2 安装注释模板
+1.3 安装注释模板
 ----
 > [文件头部注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_header.xml)
 
@@ -22,3 +22,5 @@
 > [函数注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_func.xml)
 
 > [变量注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_var.xml)
+
+        菜单 Window | Preferences |PHP | Editor | Templates | Improt 可导入以上注释
