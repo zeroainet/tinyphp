@@ -29,7 +29,8 @@
         菜单 Window | Preferences |PHP | Editor | Templates | Improt 可导入以上注释
   
   使用：
-        代码提示中，敲出header | class | func | var 即可添加类注释模板。
+  
+        代码提示中，敲出header | class | func | var 即可添加类注释模板。
            
 
 1.4 安装代码风格
@@ -38,6 +39,7 @@
 
         菜单 Window | Preferences |PHP | Editor | Code Style| Formatter| Improt 可导入以上注释
  使用：
-        右键菜单 | Source | Format  或者 按快捷键 Ctrl + Shift + F
+ 
+        右键菜单 | Source | Format  或者 按快捷键 Ctrl + Shift + F
  
  
