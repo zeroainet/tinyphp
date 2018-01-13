@@ -23,6 +23,19 @@
 
 <br>
 <br>
+SQL使用规范
+----
+
+>[第一章 查询规范](https://github.com/tinycn/tinyphp/blob/master/docs/SQL%E8%A7%84%E8%8C%83/001%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5.md)
+
+>[第二章 库和表的规范](https://github.com/tinycn/tinyphp/blob/master/docs/SQL%E8%A7%84%E8%8C%83/002%E5%BA%93%E5%92%8C%E8%A1%A8%E7%9A%84%E8%A7%84%E8%8C%83.md)
+
+>[第三章 数据库设计原则](https://github.com/tinycn/tinyphp/blob/master/docs/SQL%E8%A7%84%E8%8C%83/003%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.md)
+
+>[第四章 数据库优化原则](https://github.com/tinycn/tinyphp/blob/master/docs/SQL%E8%A7%84%E8%8C%83/004%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E5%8E%9F%E5%88%99.md)
+
+<br>
+<br>
 
 框架使用手册
 ----
