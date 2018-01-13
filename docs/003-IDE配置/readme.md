@@ -18,18 +18,26 @@
 
 1.3 安装注释模板
 ----
-> [文件头部注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_header.xml)
+> 文件头部注释 [templates_header.xml](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_header.xml)
 
-> [类注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_class.xml)
+> 类注释 [templates_class.xml](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_class.xml)
 
-> [函数注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_func.xml)
+> 函数或成员方法注释[templates_func.xml](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_func.xml)
 
-> [变量注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_var.xml)
+> 变量注释 [templates_var.xml](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_var.xml)
 
         菜单 Window | Preferences |PHP | Editor | Templates | Improt 可导入以上注释
+  
+  使用：
+        代码提示中，敲出header | class | func | var 即可添加类注释模板。
+           
 
 1.4 安装代码风格
 ---
 > [tiny-style.xml](https://github.com/tinycn/tinyphp/blob/master/docs/003-IDE%E9%85%8D%E7%BD%AE/tiny-style.xml)
 
         菜单 Window | Preferences |PHP | Editor | Code Style| Formatter| Improt 可导入以上注释
+ 使用：
+        右键菜单 | Source | Format  或者 按快捷键 Ctrl + Shift + F
+ 
+ 
