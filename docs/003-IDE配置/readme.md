@@ -27,3 +27,9 @@
 > [变量注释](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/zend/templates_var.xml)
 
         菜单 Window | Preferences |PHP | Editor | Templates | Improt 可导入以上注释
+
+1.4 安装代码风格
+
+> [tiny-style.xml](https://github.com/tinycn/tinyphp/blob/master/docs/003-IDE%E9%85%8D%E7%BD%AE/tiny-style.xml)
+
+        菜单 Window | Preferences |PHP | Editor | Code Style| Formatter| Improt 可导入以上注释
