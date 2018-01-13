@@ -2,7 +2,7 @@
 ====
 
 
-一 编码规范
+一、编码规范
 ----
 
 >[第一章 文件结构](https://github.com/tinycn/tinyphp/blob/master/docs/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/001%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-二 SQL使用规范
+二、SQL使用规范
 ----
 
 >[第一章 查询规范](https://github.com/tinycn/tinyphp/blob/master/docs/SQL%E8%A7%84%E8%8C%83/001%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5.md)
@@ -38,5 +38,5 @@
 <br>
 <br>
 
-三 框架使用手册
+三、框架使用手册
 ----
