@@ -5,6 +5,11 @@
 ----
 点击Help | Install New Software  填写Work with为[http://eclipse-color-theme.github.com/update/](http://eclipse-color-theme.github.com/update/) ，点击Add，选中Eclipse Color Theme及其子项，其他默认，然后点击Next,最后完成。
 
+1.2 选择主题
+---
+
+    菜单Window | Preferences | General | Appearance | Color Theme选项
+
 <br>
 <br>
 
