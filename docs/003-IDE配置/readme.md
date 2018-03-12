@@ -43,3 +43,5 @@
         右键菜单 | Source | Format  或者 按快捷键 Ctrl + Shift + F
  
  
+1.5 安装SVN插件
+---
