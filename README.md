@@ -11,7 +11,7 @@
 
 >[第三章 命名规则](https://github.com/tinycn/tinyphp/blob/master/docs/001-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/003%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99.md)
 
->[第四章 表达式和基本语句](https://github.com/tinycn/tinyphp/blob/master/docs/manual/001-004%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5.md)
+>[第四章 表达式和基本语句](https://github.com/tinycn/tinyphp/blob/master/docs/001-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/004%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E5%8F%A5.md)
 
 >[第五章 常量](https://github.com/tinycn/tinyphp/blob/master/docs/001-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/005%E5%B8%B8%E9%87%8F.md)
 
